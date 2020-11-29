@@ -1,0 +1,10 @@
+com\lzw\flowablespringboot\config\FlowableConfig.class
+com\lzw\flowablespringboot\controller\ExpenseController.class
+com\lzw\flowablespringboot\pojo\HifmResponse.class
+com\lzw\flowablespringboot\pojo\ModelVo.class
+com\lzw\flowablespringboot\controller\ModelController.class
+com\lzw\flowablespringboot\handler\ManagerTaskHandler.class
+com\lzw\flowablespringboot\service\impl\ModelServiceImpl.class
+com\lzw\flowablespringboot\service\ModelService.class
+com\lzw\flowablespringboot\handler\BossTaskHandler.class
+com\lzw\flowablespringboot\FlowableSpringbootApplication.class
