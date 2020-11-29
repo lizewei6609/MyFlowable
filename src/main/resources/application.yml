@@ -5,9 +5,9 @@ spring:
   profiles:
     active: dev
   datasource:
-    url: jdbc:mysql://114.115.180.38:3506/test_flowable?useSSL=false&characterEncoding=utf-8&useUnicode=true&serverTimezone=Asia/Shanghai&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true
+    url: jdbc:mysql://localhost:3506/test_flowable?useSSL=false&characterEncoding=utf-8&useUnicode=true&serverTimezone=Asia/Shanghai&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true
     username: root
-    password: Seeyouagain2017.
+    password: 123456
 flowable:
   # 关闭定时任务JOB
   # 关闭异步，不关闭历史数据的插入就是异步的，会在同一个事物里面，无法回滚
